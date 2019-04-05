@@ -1,0 +1,69 @@
+.why {
+  width: 100%;
+  margin: 0;
+  background-image: linear-gradient(-180deg, #384A67 0%, #202F49 100%);
+}
+.why .whyContent {
+  padding: 80px 0;
+}
+.why .whyContent h1{
+  text-align: center;
+  font-size: 26px;
+  color: #fff;
+  font-weight: bold;
+}
+.why .whyContent p{
+  font-size: 11px;
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+}
+.why .whyContent .items {
+  margin: 25px 0;
+}
+.why .whyContent .itemsCol {
+
+}
+.why .whyContent .items img{
+  margin: 30px auto;
+  width: 62px;
+  height: 62px;
+}
+.why .whyContent .items h5{
+  text-align: center;
+  font-weight: 500;
+  color: #fff;
+  font-size: 16px;
+}
+.why .whyContent .items p{
+  font-size: 13px;
+  color: #FFFFFF;
+  text-align: justify;
+  font-weight: 300;
+  margin: 0 15px;
+}
+.why .whyContent .subContent {
+  margin-top: 80px;
+}
+.why .whyContent .subContent h2{
+  text-align: center;
+  font-size: 26px;
+  color: #fff;
+  font-weight: bold;
+}
+.why .whyContent .subContent p:first-child{
+  font-size: 11px;
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+}
+.why .whyContent .subContent p:last-child{
+  font-size: 12px;
+  width: 75%;
+  margin: 0 auto;
+  color: #FFFFFF;
+  font-weight: 300;
+  text-align: justify;
+    -moz-text-align-last: center;
+    text-align-last: center;
+}

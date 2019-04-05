@@ -1,0 +1,144 @@
+.showcase {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  background: url('../../images/landingPage/BG-Banner.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.showcase .background {
+  position: absolute;
+  display: block;
+  top: 0;
+  left: 0;
+  z-index: 0;
+}
+
+.showcase .centerBetween {
+  display: flex;
+  align-items: center;
+  padding: 100px 0;
+}
+
+.showcase .left {
+  color: #fff;
+  margin: 0 auto;
+}
+.showcase .left h1 {
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 40px;
+}
+.showcase .left p {
+  margin-top: 40px;
+}
+
+.showcase .right {
+
+}
+.showcase .right .bordered {
+  background: #30415D;
+  border-radius: 7px;
+  padding: 30px 22px 60px 22px;
+  width: 70%;
+  margin: 0 auto;
+  opacity: 0.9;
+}
+
+.showcase .right .bordered h5 {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.showcase .right .bordered .FlipClock {
+
+}
+.showcase .right .bordered .upperCard {
+  background-color: #fff;
+}
+.showcase .right .bordered .ContainerTitle {
+  color: #e4e4e4;
+}
+.showcase .right .bordered .upperCard span {
+  color: #000;
+  font-weight: 600;
+}
+.showcase .right .bordered .flipCard.second.unfold {
+  background-color: #fff;
+}
+.showcase .right .bordered .flipCard.second.unfold span {
+  color: #000;
+  font-weight: 600;
+}
+.showcase .right .bordered button {
+  margin-top: 30px;
+  width: 100%;
+  border: none;
+  outline: none;
+  background: #8EAEBD;
+  border-radius: 22.5px;
+  font-size: 14px;
+  color: #fff;
+  cursor: pointer;
+  height: 35px;
+}
+.showcase .right .bordered .worthOfTokens {
+  margin-top: 30px;
+}
+.showcase .right .bordered .worthOfTokens h4 {
+  color: #fff;
+  font-size: 25px;
+  text-align: center;
+}
+.showcase .right .bordered .worthOfTokens h6 {
+  font-size: 10px;
+  color: #9B9B9B;
+  text-align: center;
+}
+.showcase .right .bordered .progress {
+  background-color: Transparent;
+  margin-top: 20px;
+}
+.showcase .right .bordered .progress h6 {
+  font-size: 12px;
+  color: #FFFFFF;
+  text-align: center;
+}
+.showcase .right .bordered .bar {
+  margin: 4px 0;
+  width: 100%;
+}
+.showcase .right .bordered .bar .barCol {
+  padding: 0 !important;
+}
+.showcase .right .bordered .bar .outerBar {
+  height: 18px;
+  width: 100%;
+  border-radius: 10px;
+  background-color: #57606f;
+}
+.showcase .right .bordered .bar .insideBar {
+  height: 18px;
+  width: 80%;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  background-color: #f6b93b;
+}
+.showcase .right .bordered .softHardCap  {
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.showcase .right .bordered .softHardCap span {
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.showcase .right .bordered .softHardCap span.hardcap {
+  float: right;
+}
+.showcase .right .bordered .softHardCap span p{
+  font-size: 10px;
+  color: #FFFFFF;
+}

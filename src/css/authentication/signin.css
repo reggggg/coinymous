@@ -1,0 +1,34 @@
+.signin {
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  background-color: #e4e4e4;
+}
+.signin .signinContent{
+  font-family: 'Work Sans';
+  padding-top: 12em;
+}
+.signin .signinContent .alert{
+  font-size: 13px;
+}
+.signin .signinContent a.goToHome {
+  font-size: 12px;
+  margin-left: 3px;
+}
+.signin .signinContent .form {
+  border: 1px solid #bdc3c7;
+  background-color: #ecf0f1;
+  padding: 20px 15px;
+  border-radius: 5px;
+}
+.signin .signinContent .form label {
+  font-size: 13px;
+  margin-left: 3px;
+}
+.signin .signinContent .form input {
+  font-size: 14px;
+}
+.signin .signinContent .form p {
+  font-size: 13px;
+  margin-top: 15px;
+}

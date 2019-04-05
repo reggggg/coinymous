@@ -1,0 +1,122 @@
+.tokenAllocations {
+  width: 100%;
+  margin: 0;
+  background: url('../../images/landingPage/Raodmap-Bg.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.tokenAllocations .tokenAllocationsContent {
+  padding: 70px 0;
+}
+.tokenAllocations .tokenAllocationsContent h1{
+  text-align: center;
+  font-size: 26px;
+  color: #313A4A;
+  font-weight: bold;
+  color: #fff;
+}
+.tokenAllocations .tokenAllocationsContent p{
+  font-size: 12px;
+  color: #fff;
+  text-align: center;
+  font-weight: 300;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween {
+  margin-top: 50px;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .firstCol {
+
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .firstCol p:first-child {
+  font-size: 13px;
+  line-height: 19px;
+  font-weight: 300;
+  color: #fff;
+  text-align: justify;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .firstCol p:nth-child(2) {
+  font-size: 14px;
+  line-height: 19px;
+  font-weight: 500;
+  color: #fff;
+  text-align: left;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .firstCol h4 {
+  font-size: 26px;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .firstCol button {
+  background: #8EAEBD;
+  border: 1px solid #FFFFFF;
+  border-radius: 25px;
+  width: 100%;
+  height: 50px;
+  color: #fff;
+  margin: 50px 0;
+  cursor: pointer;
+}
+
+.tokenAllocations .tokenAllocationsContent .centerBetween .secondCol {
+
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .secondCol .funds {
+  width: 75%;
+  margin: 30px auto;
+  list-style: none;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .secondCol .funds li {
+  margin: 10px 0;
+  color: #fff;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .secondCol .funds li label{
+  font-weight: 300;
+  font-size: 13px;
+  color: #e0e0e0;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .secondCol h3 {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .secondCol .pieChart1 {
+  width: 60%;
+  margin: 0 auto;
+  border: 2px solid white;
+  border-radius: 100%;
+}
+
+.tokenAllocations .tokenAllocationsContent .centerBetween .thirdCol {
+
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .thirdCol .tokens {
+  width: 75%;
+  margin: 30px auto;
+  list-style: none;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .thirdCol .tokens li {
+  margin: 10px 0;
+  color: #fff;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .thirdCol .tokens li label{
+  font-weight: 300;
+  font-size: 13px;
+  color: #e0e0e0;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .thirdCol h3 {
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+.tokenAllocations .tokenAllocationsContent .centerBetween .thirdCol .pieChart2{
+  width: 60%;
+  margin: 0 auto;
+  border: 2px solid white;
+  border-radius: 100%;
+}

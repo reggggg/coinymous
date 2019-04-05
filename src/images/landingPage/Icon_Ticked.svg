@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_Ticked</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Coinymous-Landing-Page" transform="translate(-268.000000, -3300.000000)">
+            <g id="Group-6" transform="translate(268.000000, 3300.000000)">
+                <g id="Icon_Ticked">
+                    <circle id="Oval" stroke="#FFFFFF" fill="#D5868B" fill-rule="nonzero" cx="16" cy="16" r="15.5"></circle>
+                    <g id="Icon_tick" transform="translate(9.000000, 11.000000)" fill="#FFFFFF">
+                        <path d="M13.7949734,0.219368896 C13.5216183,-0.0731229652 13.0784313,-0.0731229652 12.8050215,0.219368896 L4.41859422,9.19209355 L1.19498878,5.74315872 C0.921633641,5.45066686 0.478446682,5.45069612 0.205036859,5.74315872 C-0.0683456197,6.03562133 -0.0683456197,6.50978697 0.205036859,6.80227883 L3.92361826,10.7807298 C4.19689136,11.0731924 4.64040644,11.0729877 4.91357017,10.7807298 L13.7949734,1.27851826 C14.0683559,0.986055652 14.0683285,0.511860756 13.7949734,0.219368896 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,65 @@
+.legal {
+  width: 100%;
+  margin: 0;
+}
+.legal .legalContent {
+  padding: 100px 0;
+}
+.legal .legalContent h1{
+  text-align: center;
+  font-size: 26px;
+  color: #313A4A;
+  font-weight: bold;
+  
+}
+.legal .legalContent p{
+  font-size: 12px;
+  color: #313A4A;
+  text-align: center;
+  font-weight: 300;
+}
+.legal .legalContent .docs {
+  margin-top: 50px;
+}
+.legal .legalContent .docs .left{
+  width: 100%;
+  margin: 0 auto 20px;
+}
+.legal .legalContent .docs .left img{
+  width: 90%;
+  margin: 0 auto;
+}
+.legal .legalContent .docs .right{
+
+}
+.legal .legalContent .docs .right h5{
+
+}
+.legal .legalContent .docs .right p{
+  font-size: 13px;
+  color: #182430;
+  text-align: justify;
+}
+.legal .legalContent .docs .right .flags {
+
+}
+.legal .legalContent .docs .right .flags .eachFlag {
+
+}
+.legal .legalContent .docs .right .flags .eachFlag span {
+  font-size: 12px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 12px;
+  margin-bottom: 12px;
+  cursor: pointer;
+}
+.legal .legalContent .docs .right .flags .eachFlag span:hover {
+  text-decoration: underline;
+}
+.legal .legalContent .docs .right .flags .eachFlag span img{
+  margin: 0 10px;
+  padding: 0;
+}

@@ -1,0 +1,65 @@
+.navbar {
+  width: 100%;
+  margin: 0;
+  background: #031424;
+  z-index: 10;
+  padding: 10px 50px !important;
+}
+.navbar img {
+  width: 75px;
+  cursor: pointer;
+}
+
+.navbar .brand {
+  color: #fff !important;
+  font-size: 14px;
+}
+
+.navbar .toggler:hover {
+  border: 1px solid gray !important;
+}
+
+.navbar .navItems {
+  color: #fff !important;
+  font-family: 700;
+  margin: 0 12px;
+  font-size: 14px;
+}
+
+.navbar .login, .navbar .signup {
+  font-size: 14px;
+  width: 90px;
+  height: 29px;
+  margin: 3px 6px;
+  font-family: 'Work Sans';
+  font-weight: 300;
+  border-radius: 5px;
+  line-height: 8px !important;
+}
+.navbar .login {
+  background-color: Transparent;
+}
+.navbar .signup {
+  background: #8EAEBD;
+  border: Transparent;
+}
+.navbar .account {
+  background: #8EAEBD;
+  border: Transparent;
+  background-color: Transparent;
+  border-radius: 5px;
+}
+.navbar .account button {
+  font-size: 14px;
+  margin-top: 1px;
+  background-color: Transparent;
+}
+
+@media(max-width: 900px){
+  .navbar .navItems {
+    font-size: 12px;
+  }
+  .navbar .login, .navbar .signup {
+    font-size: 12px;
+  }
+}

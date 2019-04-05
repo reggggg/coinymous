@@ -1,0 +1,54 @@
+.footer {
+  width: 100%;
+  margin: 0;
+  background-image: linear-gradient(0deg, #E96C6B 0%, #E76361 100%);
+}
+.footer .footerContent {
+  padding: 20px 0;
+}
+.footer .footerContent .centerBetween {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.footer .footerContent .centerBetween .firstCol, .footer .footerContent .centerBetween .secondCol, .footer .footerContent .centerBetween .thirdCol {
+  margin: 15px 0;
+}
+.footer .footerContent .centerBetween .firstCol{
+  text-align: center;
+
+}
+.footer .footerContent .centerBetween .firstCol h6{
+  color: #fff;
+  font-size: 13px;
+  font-weight: 300;
+  margin: 0;
+}
+.footer .footerContent .centerBetween .secondCol{
+  text-align: center;
+  margin: 0
+}
+.footer .footerContent .centerBetween .secondCol img{
+  width: 40px;
+  height: 40px;
+}
+.footer .footerContent .centerBetween .thirdCol{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer .footerContent .centerBetween .thirdCol a{
+  font-family: 'Work Sans';
+  font-weight: 300;
+  margin: 0 15px;
+  color: #fff;
+  font-size: 13px;
+}
+.footer .footerContent .centerBetween .thirdCol .language {
+  font-family: 'Work Sans';
+  background: Transparent !important;
+  border: none;
+  font-size: 13px;
+  outline: none;
+}

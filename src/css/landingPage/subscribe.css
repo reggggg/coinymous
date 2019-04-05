@@ -1,0 +1,64 @@
+.subscribe {
+  width: 100;
+  margin: 0;
+  background: url('../../images/landingPage/BG-Subs2-01.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.subscribe .subscribeContent {
+  padding: 60px 0;
+}
+.subscribe .subscribeContent h1{
+  text-align: center;
+  font-size: 26px;
+  color: #313A4A;
+  font-weight: bold;
+}
+.subscribe .subscribeContent p{
+  font-size: 12px;
+  color: #313A4A;
+  text-align: center;
+  font-weight: 300;
+}
+.subscribe .subscribeContent .centerBetween {
+  margin: 25px 0;
+}
+.subscribe .subscribeContent .centerBetween .left {
+  width: 80%;
+  margin: 0 auto;
+}
+.subscribe .subscribeContent .centerBetween .left p{
+  text-align: left;
+}
+.subscribe .subscribeContent .centerBetween .right {
+  text-align: center;
+}
+.subscribe .subscribeContent .centerBetween .right input {
+  width: 60%;
+  margin: 0 auto;
+  background-color: Transparent;
+  border-radius: 5px;
+  border: 1px solid #bdc3c7;
+  color: gray;
+  font-size: 13px;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  outline: none;
+}
+.subscribe .subscribeContent .centerBetween .right span button{
+  width: 20%;
+  margin: 0 3px;
+  border: none;
+  font-size: 13px;
+  padding: 6px 0;
+  cursor: pointer;
+  color: #fff;
+  background: #8EAEBD;
+  border-radius: 5px;
+  outline: none;
+  transition: 0.2s;
+}
+.subscribe .subscribeContent .centerBetween .right span button:hover{
+  background-color: #82ccdd;
+  transition: 0.2s;
+}
